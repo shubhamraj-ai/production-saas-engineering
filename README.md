@@ -74,6 +74,12 @@ Intentionally excluded:
 - sensitive permission/mutation implementation details;
 - secrets, credentials, tokens, and live account configuration.
 
+## Private Development Repository
+
+This public repository is a selectively disclosed portfolio representation of a broader private development project. The private repository contains the complete product-development history, source implementation, commits, validation evidence, production-engineering records, and project documentation that are intentionally excluded here for IP, privacy, security, commercial, or operational reasons.
+
+**Additional private implementation evidence may be shared selectively during a relevant technical interview or professional review, subject to appropriate confidentiality and disclosure considerations.**
+
 ## Current limitations
 
 The existence of a production runtime is not presented as evidence that every planned high-impact capability is active. Broader writes, beta release, and public marketplace submission remain controlled decisions rather than implied features.
